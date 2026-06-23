@@ -1,4 +1,4 @@
-## How're you doing, man? 👋
+## Howyou doing, man? 👋
 
 <!--
 **Voiced97/Voiced97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
